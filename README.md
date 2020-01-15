@@ -1,8 +1,8 @@
 # pgsql-restore-ready-image
 PostgreSQL restore-ready Image
 
-# See also
-
+# See
+https://medium.com/@diego.hordi/postgresql-restore-ready-docker-image-7001a54400e9
 
 # Build
 ```
